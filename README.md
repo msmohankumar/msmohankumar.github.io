@@ -1,7 +1,4 @@
 
-#123 (issue number)
-
-
 # **From Mechanical to Software: Upgrading Your Skills**
 
 Are you a mechanical enthusiast intrigued by the world of software programming? Shifting from nuts and bolts to lines of code might seem like a daunting leap, but with the right mindset and approach, it can be a rewarding transition.
