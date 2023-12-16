@@ -1,7 +1,9 @@
 
 # **From Mechanical to Software: Upgrading Your Skills**
 
-![mech](https://github.com/msmohankumar/msmohankumar.github.io/assets/153971484/00728e0d-32ff-4d36-aa11-bd5380d1be56)  TRansformation to ![Software engineer](https://github.com/msmohankumar/msmohankumar.github.io/assets/153971484/7601f229-7e23-4fb8-9fb3-70d8134b3cfc)
+![mech](https://github.com/msmohankumar/msmohankumar.github.io/assets/153971484/00728e0d-32ff-4d36-aa11-bd5380d1be56)  
+                                                  # **Transformation to
+![Software engineer](https://github.com/msmohankumar/msmohankumar.github.io/assets/153971484/7601f229-7e23-4fb8-9fb3-70d8134b3cfc)
 
 Are you a mechanical enthusiast intrigued by the world of software programming? Shifting from nuts and bolts to lines of code might seem like a daunting leap, but with the right mindset and approach, it can be a rewarding transition.
 
